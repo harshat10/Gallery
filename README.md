@@ -139,9 +139,8 @@ transition: ease 0.5s;
 }
 ```
 # OUTPUT:
-![alt text](<Screenshot 2025-05-05 132722.png>)
-![alt text](<Screenshot 2025-05-05 132921.png>)
-![alt text](<Screenshot 2025-05-05 132938.png>)
-![alt text](<Screenshot 2025-05-05 133021.png>)
+![alt text](<Screenshot 2025-05-20 105931.png>)
+![alt text](<Screenshot 2025-05-20 105950.png>)
+![alt text](<Screenshot 2025-05-20 110014.png>)
 # RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
